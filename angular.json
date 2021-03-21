@@ -124,6 +124,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ngPushNotify"
+    }
+  },
+  "defaultProject": "ngPushNotify",
+  "cli": {
+    "analytics": false
+  }
 }
